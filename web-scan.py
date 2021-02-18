@@ -19,7 +19,7 @@ slow(Fore.BLUE+'''
 
 
 make by --> d5tr & popeye <--
-insta = d_5tr
+insta = d_5tr  for 01 team !
 insta = popeye01010
 
 '''+Fore.RED+Style.BRIGHT)
